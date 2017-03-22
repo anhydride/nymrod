@@ -1,0 +1,24 @@
+{
+  "name": "nymrod",
+  "version": "0.0.0",
+  "description": "Classy class thing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhydride/nymrod.git"
+  },
+  "keywords": [
+    "Class",
+    "Decorator",
+    "Monad"
+  ],
+  "author": "Anhydride",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhydride/nymrod/issues"
+  },
+  "homepage": "https://github.com/anhydride/nymrod#readme"
+}
